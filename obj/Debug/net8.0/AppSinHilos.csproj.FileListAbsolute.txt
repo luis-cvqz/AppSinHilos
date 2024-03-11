@@ -1,0 +1,14 @@
+/home/luis/Source/dsr/AppSinHilos/bin/Debug/net8.0/AppSinHilos
+/home/luis/Source/dsr/AppSinHilos/bin/Debug/net8.0/AppSinHilos.deps.json
+/home/luis/Source/dsr/AppSinHilos/bin/Debug/net8.0/AppSinHilos.runtimeconfig.json
+/home/luis/Source/dsr/AppSinHilos/bin/Debug/net8.0/AppSinHilos.dll
+/home/luis/Source/dsr/AppSinHilos/bin/Debug/net8.0/AppSinHilos.pdb
+/home/luis/Source/dsr/AppSinHilos/obj/Debug/net8.0/AppSinHilos.GeneratedMSBuildEditorConfig.editorconfig
+/home/luis/Source/dsr/AppSinHilos/obj/Debug/net8.0/AppSinHilos.AssemblyInfoInputs.cache
+/home/luis/Source/dsr/AppSinHilos/obj/Debug/net8.0/AppSinHilos.AssemblyInfo.cs
+/home/luis/Source/dsr/AppSinHilos/obj/Debug/net8.0/AppSinHilos.csproj.CoreCompileInputs.cache
+/home/luis/Source/dsr/AppSinHilos/obj/Debug/net8.0/AppSinHilos.dll
+/home/luis/Source/dsr/AppSinHilos/obj/Debug/net8.0/refint/AppSinHilos.dll
+/home/luis/Source/dsr/AppSinHilos/obj/Debug/net8.0/AppSinHilos.pdb
+/home/luis/Source/dsr/AppSinHilos/obj/Debug/net8.0/AppSinHilos.genruntimeconfig.cache
+/home/luis/Source/dsr/AppSinHilos/obj/Debug/net8.0/ref/AppSinHilos.dll
